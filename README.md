@@ -1,28 +1,29 @@
 [![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true)](https://github.com/ELMANCAR)
 
-### Hi, I'm Emmanuel Cárdenas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h3 align="center">Hi, I'm Emmanuel Cárdenas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20Engineer;Healthcare%20Electronics&font=Fira%20Code&center=true&width=440&height=45)](https://github.com/DenverCoder1/readme-typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20Engineer;Healthcare%20Electronics&font=Fira%20Code&center=true&width=440&height=45" alt="Typing SVG"></a>
+</p>
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=ELMANCAR.ELMANCAR)](https://github.com/ELMANCAR/)
+<p align="center">
+  <a href="https://github.com/ELMANCAR/"><img src="https://visitor-badge.laobi.icu/badge?page_id=ELMANCAR.ELMANCAR" alt="Profile views"></a>
+</p>
 
 ---
 
-- 👨‍💻 Biomedical Engineer from Barranquilla, Colombia (CUR, 2026), focused on low-cost, accessible devices, especially prosthetics and rehabilitation technology.
-- 💬 Ask me about myoelectric prosthetics (my 2-DOF 3D-printed hand), sEMG signals, ESP32 and medical device regulation in Colombia.
-- 🌱 Currently exploring AI-automated hardware design with tscircuit.
-
-## About Me 
-
-<img align="right" width="480" alt="GitHub header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+## About Me
+Biomedical Engineer from Barranquilla, Colombia (CUR, 2026), focused on low-cost, accessible devices, especially prosthetics and rehabilitation technology.
 
 - 🔭 I'm currently working with free and open-source tools
-- 🌱 I'm currently learning C++ and Arduino, and agent-assisted development with Claude Code
+- 🌱 I'm currently learning C++ and Arduino, and agent-assisted development with Claude Code, Currently exploring AI-automated hardware design with tscircuit.
 - 👯 I'm looking to collaborate on any kind of healthcare-related technology. Just sketch the idea and I'll color it in 🎨
 - 💬 Ask me about 3D printing, CAD (SolidWorks, Onshape, Fusion 360) and PCB design with KiCad
 - ⚡ Fun fact: I enjoy painting and art history, I'm a motorsport fan (go Max Verstappen!) and a lover of science and technology
 
-<br clear="right"/>
+<p align="center">
+  <img width="800" alt="GitHub header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+</p>
 
 ## 🛠 Tech Stack
 
@@ -79,16 +80,9 @@
 
 ###### 👇🏻 Featured projects 👇🏻
 
-- 🦾 Low-cost myoelectric prosthetic hand (2 DOF, 3D printed, TRL4)
+- 🦾 Low-cost myoelectric prosthetic hand (2 DOF, 3D printed)
 - 🧤 sEMG-controlled robotic rehabilitation glove
 
 <!-- Add links to your repos here, for example [Project name](https://github.com/ELMANCAR/repo-name) -->
-
-###### 👇🏻 Featured projects 👇🏻
-
-- 🦾 Low-cost myoelectric prosthetic hand (2 DOF, 3D printed, TRL4)
-- 🧤 sEMG-controlled robotic rehabilitation glove
-
 <!-- Add links to your repos here, for example [Project name](https://github.com/ELMANCAR/repo-name) -->
 
----
