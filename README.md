@@ -1,4 +1,77 @@
-<h3 align="center">
-  Hi, I'm Emmanuel Cárdenas
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+[![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true)](https://github.com/ELMANCAR)
+
+### Hi, I'm Emmanuel Cárdenas Barceló <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20Engineer;Low-cost%20prosthetics%20and%20rehabilitation%20tech;Embedded%20electronics%20and%20signal%20processing;Accessible%20medical%20devices%20for%20Latin%20America&font=Fira%20Code&center=true&width=440&height=45)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=ELMANCAR.ELMANCAR)](https://github.com/ELMANCAR/)
+
+---
+
+- 👨‍💻 Biomedical Engineer from Barranquilla, Colombia (CUR, 2026), focused on low-cost, accessible devices, especially prosthetics and rehabilitation technology.
+- 💬 Ask me about myoelectric prosthetics (my 2-DOF 3D-printed hand, TRL4), sEMG signals, ESP32 and medical device regulation in Colombia (INVIMA, Decreto 4725).
+- 🌱 Currently exploring biomanufacturing and synthetic biology (MIT's HTGAA course) and AI-automated hardware design with tscircuit.
+
+## 🛠 Tech Stack
+
+#### 🔧 Languages
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🔌 Hardware & Electronics
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![sEMG](https://img.shields.io/badge/sEMG-0A7B83.svg?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+
+#### 📐 Design & Fabrication
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A.svg?style=for-the-badge&logo=solidworks&logoColor=white) ![Onshape](https://img.shields.io/badge/Onshape-4B9CD3.svg?style=for-the-badge&logo=onshape&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F58220.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![3D Printing](https://img.shields.io/badge/3D%20Printing-2E3440.svg?style=for-the-badge)
+
+#### 🧰 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=claude&logoColor=white) ![Office](https://img.shields.io/badge/Office-D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+## 🏆 Highlights
+
+- 🥇 Institutional winner of the Rally Latinoamericano de Innovación (2023, 2024 and 2025)
+- 🌟 "Joven Líder Protagonista del Cambio" award, scientific category (Consejo Departamental de Juventud del Atlántico)
+- 🎤 Presented at ESI AMLAT 2024 in Lima, Peru
+- 🛠 SolidWorks CSWA certified
+
+## 📊 Profile Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=ELMANCAR&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+
+### 💳 GitHub Profile Summary Card
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ELMANCAR&theme=github_dark)
+
+### ⏱ Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ELMANCAR&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+### 📈 Activity Graph
+
+[![Emmanuel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ELMANCAR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ELMANCAR&show_icons=true&locale=en&layout=compact&theme=radical)
+
+---
+
+### 🔗 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel2003cardenas@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-c%C3%A1rdenas-barcel%C3%B3/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELMANCAR) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/emmanuel27car/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emmanuel27card)
+
+---
+
+###### 👇🏻 Featured projects 👇🏻
+
+- 🦾 Low-cost myoelectric prosthetic hand (2 DOF, 3D printed, TRL4)
+- 🧤 sEMG-controlled robotic rehabilitation glove
+
+<!-- Add links to your repos here, for example [Project name](https://github.com/ELMANCAR/repo-name) -->
+
+---
+
+Credit: template by [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
