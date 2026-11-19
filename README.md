@@ -17,7 +17,7 @@ Biomedical Engineer from Barranquilla, Colombia (CUR, 2026), focused on low-cost
 
 - 🔭 I'm currently working with free and open-source tools
 - 🌱 I'm currently learning C++ and Arduino, and agent-assisted development with Claude Code, Currently exploring AI-automated hardware design with tscircuit.
-- 👯 I'm looking to collaborate on any kind of healthcare-related technology. Just sketch the idea and I'll color it in 🎨
+- 👯 I'm looking to collaborate on any kind of healthcare-related technology. [Pintala que yo la coloreo] 
 - 💬 Ask me about 3D printing, CAD (SolidWorks, Onshape, Fusion 360) and PCB design with KiCad
 - ⚡ Fun fact: I enjoy painting and art history, I'm a motorsport fan (go Max Verstappen!) and a lover of science and technology
 
